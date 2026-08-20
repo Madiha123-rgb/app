@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<homepage>
+    <!-- Website Navigation -->
+    <navigation>
+        <brand>BrandName</brand>
+        <links>
+            <item url="#home">Home</item>
+            <item url="#about">About</item>
+            <item url="#services">Services</item>
+            <item url="#contact">Contact</item>
+        </links>
+    </navigation>
+
+    <!-- Hero Announcement Section -->
+    <hero>
+        <title>Welcome to Our XML Powered Website</title>
+        <description>This layout reads raw data directly from structured nodes and transforms it into a clean, modern design.</description>
+        <cta_text>Learn More</cta_text>
+    </hero>
+
+    <!-- Grid Features Content -->
+    <features>
+        <section_title>Our Structural Advantages</section_title>
+        <grid>
+            <card>
+                <heading>Data Separation</heading>
+                <text>Keeps your content completely divorced from layout rules for easier structural updates.</text>
+            </card>
+            <card>
+                <heading>Custom Tags</heading>
+                <text>Enables custom, self-describing layout entities tailored to your business data schema.</text>
+            </card>
+            <card>
+                <heading>Cross Platform</heading>
+                <text>Feeds effortlessly into web interfaces, native mobile apps, and enterprise systems alike.</text>
+            </card>
+        </grid>
+    </features>
+
+    <!-- Footer Meta -->
+    <footer>
+        <copyright>© 2026 BrandName. Data served cleanly via XML.</copyright>
+    </footer>
+</homepage>
